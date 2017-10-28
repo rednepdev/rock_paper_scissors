@@ -1,0 +1,349 @@
+Gun Wins:
+-Targets Rock
+-Shoots at Sun
+-(Gun) Fires (Beats Fire)
+-Destroys Scissors
+-Chips Axe
+-Shoots Snake
+-Shoots Monkey
+-Shoots Woman
+-Shoots Man
+-Targets Tree
+-Shoots Cockroach
+-Shoots Wolf
+
+Dynamite Wins:
+-Outclasses Gun
+-Explodes Rock
+-Smoke Blots out Sun
+-Starts Fire
+-Explodes Scissors
+-Explodes Axe
+-Explodes Snake
+-Explodes Monkey
+-Explodes Woman
+-Explodes Man
+-Explodes Tree
+-Explodes Cockroach
+
+Nuke Wins:
+-Outclasses Dynamite
+-Outclasses Gun
+-Incinerates Rock
+-Has Power of Sun
+-Starts Massive Fire
+-Incinerates Scissors
+-Incinerates Axe
+-Incinerates Snake
+-Incinerates Monkey
+-Incinerates Woman
+-Incinerates Man
+-Incinerates Tree
+
+Lightning Wins:
+-Defuses Nuke
+-Ignites Dynamite
+-Melts Gun
+-Splits Rock
+-Storm Blocks Sun
+-Starts Fire
+-Melts Scissors
+-Melts Axe
+-Strikes Snake
+-Strikes Monkey
+-Strikes Woman
+-Strikes Man
+
+Devil Wins:
+-Casts Lightning
+-Inspires Nuke
+-Inspires Dynamite
+-Inspires Gun
+-Hurls Rock
+-Curses Sun
+-Breathes Fire
+-Immune to Scissors
+-Immune to Axe
+-Eats Snake
+-Enrages Monkey
+-Tempts Woman
+
+Dragon Wins:
+-Commands Devil
+-Breathes Lightning
+-Lived Before Nukes
+-Flosses with Dynamite
+-Immune to Gun
+-Rests upon Rock
+-Blots out Sun
+-Breathes Fire
+-Immune to Scissors
+-Immune to Axe
+-Spawns Snake
+-Chars Monkey
+
+Alien Wins:
+-Vaporizes Dragon
+-Doesn't Believe in Devil
+-Shoots Lightning
+-Defuses Nuke
+-Defuses Dynamite
+-Force-fields Gun
+-Vaporizes Rock
+-Destroys Sun
+-Fuses Fire
+-Force-fields Scissors
+-Force-fields Axe
+-Mutates Snake
+
+Water Wins:
+-Toxic to Alien
+-Drowns Dragon
+-Blesses Devil
+-Conducts Lightning
+-Short-circuits Nuke
+-Douses Dynamite
+-Rusts Gun
+-Erodes Rock
+-Reflects Sun
+-Puts out Fire
+-Rusts Scissors
+-Rusts Axe
+
+Bowl Wins:
+-Contains Water
+-Shapes Craft of Alien
+-Drowns Dragon
+-Blesses Devil
+-Focuses Lightning
+-Encases Core of Nuke
+-Splashes Dynamite
+-Splashes Gun
+-Once Made of Rock
+-Focuses Sun
+-Snuffs out Fire
+-Covers Scissors
+
+Air Wins:
+-Tips over Bowl
+-Evaporates Water
+-Chokes Alien
+-Freezes Dragon
+-Chokes Devil
+-Creates Lightning
+-Blows astray Nuke
+-Blows out Dynamite
+-Tarnishes Gun
+-Erodes Rock
+-Cools Heat of Sun
+-Blows out Fire
+
+Moon Wins:
+-Has no Air
+-Shaped like Bowl
+-Has no Water
+-Houses Alien
+-Shines on Dragon
+-Terrifies Devil
+-Far above Lightning
+-Too far for Nuke
+-Suffocates Dynamite
+-Moonshine Gunfight
+-Shines on Rock
+-Eclipses Sun
+
+Paper Wins:
+-Paper Moon
+-Fans Air
+-Mache Bowl
+-Floats on Water
+-Disproves Alien
+-Rebukes Dragon
+-Rebukes Devil
+-Defines Lightning
+-Defines Nuke
+-Encases Dynamite
+-Outlaws Gun
+-Covers Rock
+
+Sponge Wins:
+-Soaks Paper
+-Looks like Moon
+-Uses Air Pockets
+-Cleans Bowl
+-Absorbs Water
+-Intrigues Alien
+-Cleanses Dragon
+-Cleanses Devil
+-Conducts Lightning
+-Cleans Nuke
+-Soaks Dynamite
+-Cleans Gun
+
+Wolf Wins:
+-Chews up Sponge
+-Chews up Paper
+-Howls at Moon
+-Breathes Air
+-Drinks from Bowl
+-Drinks Water
+-Chases Alien
+-Outruns Dragon
+-Bites Bottom of Devil
+-Outruns Lightning
+-"WOLF-2" Launches Nuke
+-Outruns Dynamite
+
+Cockroach Wins:
+-Sleeps in fur of Wolf
+-Nests in Sponge
+-Nests between Paper
+-Nocturnal (so likes) Moon
+-Breathes Air
+-Hides under Bowl
+-Drinks Water
+-Stows away with Alien
+-Eats Eggs of Dragon
+-Makes men Devils
+-Hides from Lightning
+-Survives Nuke
+
+Tree Wins:
+-Shelters Cockroach
+-Shelters Wolf
+-Outlives Sponge
+-Creates Paper
+-Blocks Moon
+-Produces Air
+-Wood creates Bowl
+-Drinks Water
+-Ensnares Alien
+-Shelters Dragon
+-Imprisons Devil
+-Attracts Lightning
+
+Man Wins:
+-Plants Tree
+-Steps on Cockroach
+-Tames Wolf
+-Cleans with Sponge
+-Writes on Paper
+-Travels to Moon
+-Breathes Air
+-Eats from Bowl
+-Drinks Water
+-Disproves Alien
+-Slays Dragon
+-Exorcises Devil
+
+Woman Wins:
+-Tempts Man
+-Plants Tree
+-Steps on Cockroach
+-Tames Wolf
+-Cleans with Sponge
+-Writes on Paper
+-Aligns with Moon
+-Breathes Air
+-Eats from Bowl
+-Drinks Water
+-Disproves Alien
+-Slays Dragon
+
+Monkey Wins:
+-Flings poop at Woman
+-Flings poop at Man
+-Lives in Tree
+-Eats Cockroach
+-Enrages Wolf
+-Rips up Sponge
+-Rips up Paper
+-Screeches at Moon
+-Breathes Air
+-Smashes Bowl
+-Drinks Water
+-Infuriates Alien
+
+Snake Wins:
+-Bites Monkey
+-Bites Woman
+-Bites Man
+-Lives in Tree
+-Eats Cockroach
+-Bites Wolf
+-Swallows Sponge
+-Nests in Paper
+-Nocturnal (so likes) Moon
+-Breathes Air
+-Sleeps in Bowl
+-Drinks Water
+
+Axe Wins:
+-Chops Snake
+-Cleaves Monkey
+-Cleaves Woman
+-Cleaves Man
+-Chops Down Tree
+-Chops Cockroach
+-Cleaves Wolf
+-Chops Sponge
+-Slices Paper
+-Reflects Moon
+-Flies through Air
+-Chops Bowl
+
+Scissors Wins:
+-Sharper than Axe
+-Stab Snake
+-Stab Monkey
+-Cut hair of Woman
+-Cut hair of Man
+-Carve Tree
+-Stab Cockroach
+-Cut hair of Wolf
+-Cut up Sponge
+-Cut Paper
+-Reflect Moon
+-Swish through Air
+
+Fire Wins:
+-Melts Scissors
+-Forges Axe
+-Burns Snake
+-Burns Monkey
+-Burns Woman
+-Burns Man
+-Burns Tree
+-Burns Cockroach
+-Burns Wolf
+-Burns Sponge
+-Burns Paper
+-Campfire by Moonlight
+
+Sun Wins:
+-Made of Fire
+-Melts Scissors
+-Melts Axe
+-Warms Snake
+-Warms Monkey
+-Warms Woman
+-Warms Man
+-Feeds Tree
+-Warms Cockroach
+-Warms Wolf
+-Dries up Sponge
+-Shines through Paper
+
+Rock Wins:
+-Shades Sun
+-Pounds out Fire
+-Smashes Scissors
+-Chips Axe
+-Crushes Snake
+-Crushes Monkey
+-Crushes Woman
+-Crushes Man
+-Blocks roots of Tree
+-Squishes Cockroach
+-Crushes Wolf
+-Crushes Sponge

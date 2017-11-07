@@ -40,7 +40,7 @@ while playing:
             computerChoice = random.randint(0, len(main_array))
 
             userChoice = switch_replacement(input('Gun, dynamite, nuke, lightning, devil, dragon, alien, water, bowl, air, moon, paper, '
-                                                  'sponge, wolf, cockroach, tree, man, woman, monkey, snake, axe, scissors, fire, \n'
+                                                  'sponge, wolf, cockroach, tree, man, woman, monkey, snake, axe, scissors, fire, '
                                                   'sun or rock?').lower())  # convert to number
             if userChoice == len(main_array):
                 print("Invalid Input")  #invalid input was given

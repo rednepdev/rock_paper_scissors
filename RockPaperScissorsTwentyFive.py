@@ -1,4 +1,4 @@
-import random
+from random import randint
 import time
 
 playing = True
@@ -37,7 +37,7 @@ while playing:
         draw = True
 
         while draw:
-            computerChoice = random.randint(0, len(main_array))
+            computerChoice = randint(0, len(main_array))
 
             userChoice = switch_replacement(input('Gun, dynamite, nuke, lightning, devil, dragon, alien, water, bowl, air, moon, paper, '
                                                   'sponge, wolf, cockroach, tree, man, woman, monkey, snake, axe, scissors, fire, '
